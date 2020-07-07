@@ -1,0 +1,9 @@
+.idea
+bin
+!bin/README.md
+!bin/develop.sh
+!bin/produce.sh
+log
+!log/README.md
+src/vendor
+pkg
